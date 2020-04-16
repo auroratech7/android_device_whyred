@@ -461,3 +461,7 @@ PRODUCT_BOOT_JARS += \
 
 PRODUCT_PACKAGES += \
     libcurl
+    
+ # XiaomiParts
+PRODUCT_PACKAGES += \
+    XiaomiParts
